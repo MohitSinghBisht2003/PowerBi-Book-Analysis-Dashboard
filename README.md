@@ -28,7 +28,7 @@ This Power BI dashboard provides a comprehensive visual analysis of book data, o
 
 ## 📷 Dashboard Preview
 
-(.Dashboard.png)
+<img width="1166" height="650" alt="Dashboard" src="https://github.com/user-attachments/assets/219ac4be-19ee-4e2a-9aad-4fea596114cb" />
 
 ---
 
